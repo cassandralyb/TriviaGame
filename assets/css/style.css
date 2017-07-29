@@ -1,0 +1,33 @@
+body {
+	background-color: lightgrey;
+	font-size: 14px;
+	line-height: 34px;
+	color: #0c4f23;
+}
+* {
+	box-sizing: border-box;
+}
+
+footer, section{
+	width: 75%;
+	margin-left: auto;
+    margin-right: auto;
+    text-align: center
+}
+header, footer{
+	background-color: pink;
+	height: 100px;
+ }
+
+.rules, h1 {
+	text-align: center;
+}
+
+#show-number {
+	text-align: center;
+}
+
+#question {
+	width: 100%;
+}
+
